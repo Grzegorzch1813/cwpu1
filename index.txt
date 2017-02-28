@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>tytul strony</title>
+</head>
+<body>
+</body>
+</html>
