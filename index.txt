@@ -3,5 +3,6 @@
 <title>tytul strony</title>
 </head>
 <body>
+Cos wpisane
 </body>
 </html>
