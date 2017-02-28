@@ -5,5 +5,17 @@
 <body>
 Cos wpisane
 <img src="">obrazek</img>
+
+
+
+
+
+
+
+
+
+
+
+Faza troche xd
 </body>
 </html>
